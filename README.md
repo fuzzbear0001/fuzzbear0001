@@ -15,8 +15,8 @@
 ## 💻 Skills
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
-https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white
-https://img.shields.io/badge/nextjs-%23007ACC.svg?style=for-the-badge&logo=nextjs&logoColor=white
+    <img src="https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white" style="margin-bottom: 4px;" height="30px">
+    <img src="https://img.shields.io/badge/nextjs-%23007ACC.svg?style=for-the-badge&logo=nextjs&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/ubuntu-%23007ACC.svg?style=for-the-badge&logo=ubuntu&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/debian-%23007ACC.svg?style=for-the-badge&logo=debian&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/Express-%23007ACC.svg?style=for-the-badge&logo=express&logoColor=white" style="margin-bottom: 4px;" height="30px">
