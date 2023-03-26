@@ -3,7 +3,7 @@
     <a href="https://urlcut.app"></a>
 </div>
 
-# Hi there 👋, My name is Ducko
+# Hi there 👋, My name is Fuzzbear
   
 ## 💫 Little Bit About Me
 <p>🔭 I'm currently working on Urlcut</p>
