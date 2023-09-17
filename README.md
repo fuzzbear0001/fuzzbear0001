@@ -1,5 +1,5 @@
 <div align="left">
-    <a href="https://github.com/fuzzbear0001"> <img src="https://komarev.com/ghpvc/?username=fuzzbear0001&style=flat" alt="Profile Views"/> </a>
+    <a href="https://github.com/fuzzbear0001"> <img src="https://komarev.com/ghpvc/?username=fuzzbear0001&style=flat&base=10000" alt="Profile Views"/> </a>
     <a href="https://urlcut.app"></a>
 </div>
 
