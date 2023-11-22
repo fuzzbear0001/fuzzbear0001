@@ -9,7 +9,7 @@
 <p>🔭 I'm currently working on Urlcut</p>
 <p>🙏 I'm looking for help with Nothing</p>
 <p>💬 Ask me about Code</p>
-<p>📫 How to reach me? fuzzbear#0202 Email: fuzzbear@urlcut.app</p>
+<p>📫 How to reach me? fuzzbear_dev Email: support@urlcut.app</p>
 <p>⚡ Fun Fact: I...</p>
 
 ## 💻 Skills
