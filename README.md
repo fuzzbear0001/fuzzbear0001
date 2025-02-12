@@ -4,9 +4,10 @@
 </div>
 
 # Hi there 👋, My name is Fuzzbear
-  
+
 ## 💫 Little Bit About Me
-<p>🔭 I'm currently working on Urlcut</p>
+<p>🔭 I'm currently working on Urlcut and crypto games.</p>
+<p> 👾 latest game: https://www.spaceblasters.fun/ </p>
 <p>🙏 I'm looking for help with Nothing</p>
 <p>💬 Ask me about Code</p>
 <p>📫 How to reach me? fuzzbear_dev Email: support@urlcut.app</p>
