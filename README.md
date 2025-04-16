@@ -1,43 +1,56 @@
-<div align="left">
-    <a href="https://github.com/fuzzbear0001"> <img src="https://komarev.com/ghpvc/?username=fuzzbear0001&style=flat&base=10000" alt="Profile Views"/> </a>
-    <a href="https://urlcut.app"></a>
-</div>
+# Hey, I'm Kristof
 
-# Hi there 👋, My name is Fuzzbear
+**Young dev. Big vision.**  
+Builder of **Shortenr** – the all-in-one link management beast.
 
-## 💫 Little Bit About Me
-<p>🔭 I'm currently working on Urlcut </p>
+---
 
-<p>🙏 I'm looking for help with Nothing</p>
-<p>💬 Ask me about Code</p>
-<p>📫 How to reach me? fuzzbear_dev Email: support@urlcut.app</p>
-<p>⚡ Fun Fact: I...</p>
+## What I'm Working On
 
-## 💻 Skills
-<p>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
-    <img src="https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white" style="margin-bottom: 4px;" height="30px">
-    <img src="https://img.shields.io/badge/nextjs-%23007ACC.svg?style=for-the-badge&logo=nextjs&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/ubuntu-%23007ACC.svg?style=for-the-badge&logo=ubuntu&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/debian-%23007ACC.svg?style=for-the-badge&logo=debian&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/Express-%23007ACC.svg?style=for-the-badge&logo=express&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
-</p>
+### [Shortenr](#) *(Private Project)*
+> A full-featured URL shortener with:
+- QR codes, password protection, expiry dates  
+- Smart redirects, UTM builder, one-time links  
+- Analytics dashboard, file sharing & crypto payments  
+- Dark features like Russian Roulette & Black Market Links  
+> *850+ commits deep and counting…*
 
-## 👥 Connect With Me
-<p>
-<a href="https://www.discord.com/users/138865320743010304"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px"></a>
-</p>
+---
 
-## 🏆 GitHub Trophies
+## My Stack
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=fuzzbear0001">
-</p>
+- **Frontend**: Next.js (Pages Router), TypeScript, TailwindCSS, ShadCN
+- **Backend**: Node.js, Custom APIs, Cloudflare R2
+- **Payments**: Stripe + Crypto
+- **Other Tools**: Replit, V0, GitHub, Telegram, Apple Passwords, iCloud Hide My Email
 
-## 📊 Github Status
+---
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=fuzzbear0001&show_icons=true"><p>
+## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzzbear0001&layout=compact"><p>
+![Commits](https://img.shields.io/badge/Shortenr_Commits-850%2B-blue)
+![Status](https://img.shields.io/badge/Build-In%20Progress-yellow)
+![Dev Level](https://img.shields.io/badge/Status-Elite%20Dev%20in%20Training-red)
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fuzzbear0001"><p>
+![GitHub Stats](https://camo.githubusercontent.com/186934c7c43c4755e38bd6aace9c0c39b7d0dc12432966506826fc018ba6613e/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d66757a7a6265617230303031)
+![Streak Stats](https://camo.githubusercontent.com/a761492628389d4d1076f16222deed16119872ea881734b943b4d010cc6c99ba/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d66757a7a6265617230303031)
+
+---
+
+## About Me
+
+- Based in **Liskeard, UK**
+- Hungarian-British dual citizen
+- Building from both **PC and phone**
+- 15 y/o with a verified **Crypto.com** account *(yes, really)*
+
+---
+
+## Contact
+
+I’m on **Telegram** – ask for the @  
+Or hit up my support: `urlcut@proton.me` *(for Shortenr-related stuff)*
+
+---
+
+> “Started with a phone. Now I’m building the future.”
