@@ -42,7 +42,6 @@ Builder of **Shortenr** – the all-in-one link management beast.
 - Based in **Liskeard, UK**
 - Hungarian-British dual citizen
 - Building from both **PC and phone**
-- 15 y/o with a verified **Crypto.com** account *(yes, really)*
 
 ---
 
@@ -53,4 +52,4 @@ Or hit up my support: `urlcut@proton.me` *(for Shortenr-related stuff)*
 
 ---
 
-> “Started with a phone. Now I’m building the future.”
+> “Started with a laptop. Now I’m building the future.”
